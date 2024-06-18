@@ -9,3 +9,10 @@ Every student offers a different set of subjects but we still want to see who th
 
 ----------------------
 IDE - An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. 
+
+----------------------
+
+To watch the video where I run & explain the codes: 
+
+(2) Students-and-Subjects-array-of-Objects- 
+( https://youtu.be/mWiNS_T9beI )
